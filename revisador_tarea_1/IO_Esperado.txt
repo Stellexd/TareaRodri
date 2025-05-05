@@ -1,0 +1,569 @@
+###ENTRADA###
+7,A,6,9,4,10,2,5,3,8
+jugar a 17,jugar a 17,pedir,pedir 8
+devolver carta rival,devolver mi carta,devolver mi carta,pedir 4
+A,5,7,9,10,2,4,8,6,3
+pedir 6,pedir 6,jugar a 23,desactivar As
+jugar a 23,pedir 6,devolver mi carta,pedir A
+6,10,8,9,2,A,4,3,7,5
+robar carta,jugar a 23,desactivar As,pedir
+pedir 4,pedir,pedir,jugar a 17
+A,2,5,8,4,9,7,3,10,6
+pedir 10,robar carta,desactivar As,pedir 8
+jugar a 23,pedir,robar carta,robar carta
+10,9,5,8,2,6,7,3,A,4
+pedir 3,pedir,jugar a 23,desactivar As
+pedir,devolver mi carta,robar carta,jugar a 17
+5,2,10,4,7,8,3,A,6,9
+pedir 6,jugar a 17,devolver mi carta,pedir 6
+desactivar As,jugar a 23,jugar a 23,pedir 4
+4,8,3,6,2,5,7,10,A,9
+jugar a 17,pedir 4,desactivar As,pedir 4
+devolver mi carta,pedir 10,jugar a 23,robar carta
+6,3,5,2,8,10,A,7,9,4
+pedir,pedir 2,pedir 2,desactivar As
+pedir,jugar a 17,pedir 6,pedir 6
+A,4,7,2,6,9,10,8,5,3
+jugar a 17,pedir 9,pedir 9,pedir
+pedir 9,pedir 9,devolver mi carta,desactivar As
+###SALIDA###
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 19-0
+Ronda 1 para jugador 2
+Vidas: 4 vs 5
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 24-5
+Ronda 2 para jugador 2
+Vidas: 3 vs 5
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 26-27
+Ronda 3 empatada
+Vidas: 3 vs 5
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 16-24
+Ronda 4 para jugador 1
+Vidas: 3 vs 4
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 18-23
+Ronda 5 empatada
+Vidas: 3 vs 4
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 21-6
+Ronda 6 para jugador 1
+Vidas: 3 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 4-21
+Ronda 7 para jugador 2
+Vidas: 2 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 19-15
+Ronda 8 para jugador 2
+Vidas: 1 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 24-6
+Ronda 9 para jugador 2
+Vidas: 0 vs 3
+
+GANA EL JUGADOR 2!
+###ENTRADA###
+4,A,10,2,6,7,8,3,5,9
+pedir 3,jugar a 23,pedir 5,devolver mi carta
+jugar a 23,pedir 3,pedir,devolver mi carta
+6,7,8,10,9,2,4,5,A,3
+desactivar As,jugar a 23,desactivar As,devolver carta rival
+desactivar As,robar carta,robar carta,pedir 2
+10,4,3,2,9,A,8,7,5,6
+devolver mi carta,jugar a 23,pedir 7,devolver carta rival
+pedir 3,jugar a 17,pedir 7,pedir
+5,4,2,10,6,8,7,9,3,A
+jugar a 23,pedir 8,jugar a 23,pedir 8
+jugar a 17,devolver carta rival,jugar a 17,robar carta
+5,9,10,8,3,4,A,2,6,7
+devolver carta rival,pedir 6,robar carta,devolver mi carta
+desactivar As,pedir 8,robar carta,pedir 6
+###SALIDA###
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 17-13
+Ronda 1 para jugador 1
+Vidas: 5 vs 4
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 0-27
+Ronda 2 para jugador 1
+Vidas: 5 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 17-15
+Ronda 3 para jugador 1
+Vidas: 5 vs 2
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 7-22
+Ronda 4 para jugador 1
+Vidas: 5 vs 1
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 15-23
+Ronda 5 para jugador 1
+Vidas: 5 vs 0
+
+GANA EL JUGADOR 1!
+###ENTRADA###
+5,8,4,10,7,2,6,A,9,3
+pedir 10,jugar a 23,pedir 7,robar carta
+robar carta,jugar a 23,desactivar As,desactivar As
+4,A,8,5,2,7,3,6,9,10
+devolver carta rival,pedir 4,pedir 4,robar carta
+pedir A,pedir 6,robar carta,robar carta
+10,9,3,7,A,4,8,6,5,2
+devolver mi carta,pedir,desactivar As,devolver mi carta
+pedir,pedir 8,pedir,jugar a 23
+8,6,5,4,3,9,2,A,7,10
+jugar a 17,pedir 7,pedir 3,robar carta
+desactivar As,pedir 7,pedir 7,jugar a 17
+5,10,7,9,6,8,4,A,3,2
+jugar a 23,pedir,pedir 9,pedir 8
+desactivar As,pedir 10,devolver carta rival,jugar a 23
+7,2,4,A,8,9,5,10,3,6
+robar carta,robar carta,devolver carta rival,devolver mi carta
+jugar a 23,pedir,jugar a 23,pedir A
+4,3,6,8,7,10,5,A,2,9
+pedir 3,pedir 5,robar carta,pedir 4
+jugar a 23,devolver mi carta,jugar a 17,robar carta
+4,10,2,3,A,8,5,9,6,7
+pedir 4,jugar a 23,pedir,jugar a 23
+pedir 9,pedir 4,jugar a 23,devolver mi carta
+###SALIDA###
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 16-18
+Ronda 1 para jugador 2
+Vidas: 4 vs 5
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 4-15
+Ronda 2 para jugador 2
+Vidas: 3 vs 5
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 10-41
+Ronda 3 para jugador 1
+Vidas: 3 vs 4
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 27-6
+Ronda 4 para jugador 2
+Vidas: 2 vs 4
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 20-19
+Ronda 5 para jugador 1
+Vidas: 2 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 22-0
+Ronda 6 para jugador 1
+Vidas: 2 vs 2
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 15-3
+Ronda 7 para jugador 1
+Vidas: 2 vs 1
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 17-13
+Ronda 8 para jugador 1
+Vidas: 2 vs 0
+
+GANA EL JUGADOR 1!
+###ENTRADA###
+8,5,10,4,7,3,A,9,2,6
+robar carta,devolver carta rival,devolver carta rival,pedir
+desactivar As,jugar a 17,pedir A,pedir A
+4,5,6,7,3,A,10,2,9,8
+pedir 2,pedir 8,desactivar As,pedir 8
+jugar a 17,pedir 8,pedir 2,pedir 4
+6,A,7,3,10,8,9,5,2,4
+pedir 9,pedir,pedir 2,devolver mi carta
+robar carta,jugar a 17,desactivar As,pedir 9
+5,9,3,2,7,8,A,10,4,6
+devolver mi carta,pedir 7,robar carta,desactivar As
+pedir 4,pedir,devolver carta rival,desactivar As
+9,7,8,3,A,4,2,5,6,10
+robar carta,pedir 2,desactivar As,pedir 3
+jugar a 23,pedir 3,pedir,jugar a 23
+4,7,10,6,8,3,A,9,2,5
+jugar a 23,robar carta,devolver mi carta,pedir 3
+pedir 6,pedir 3,pedir 2,jugar a 23
+2,A,6,10,9,5,8,3,7,4
+pedir,pedir A,pedir A,pedir 8
+pedir 8,robar carta,jugar a 23,jugar a 23
+6,5,10,2,4,7,A,9,8,3
+desactivar As,desactivar As,robar carta,pedir 9
+devolver mi carta,devolver carta rival,pedir,pedir 5
+7,6,10,9,5,4,2,3,A,8
+desactivar As,devolver carta rival,robar carta,jugar a 17
+desactivar As,robar carta,jugar a 17,devolver carta rival
+###SALIDA###
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 29-11
+Ronda 1 para jugador 2
+Vidas: 4 vs 5
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 20-12
+Ronda 2 para jugador 2
+Vidas: 3 vs 5
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 23-23
+Ronda 3 empatada
+Vidas: 3 vs 5
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 12-15
+Ronda 4 para jugador 2
+Vidas: 2 vs 5
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 22-18
+Ronda 5 para jugador 1
+Vidas: 2 vs 4
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 14-12
+Ronda 6 para jugador 1
+Vidas: 2 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 8-28
+Ronda 7 para jugador 1
+Vidas: 2 vs 2
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 20-4
+Ronda 8 para jugador 1
+Vidas: 2 vs 1
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 7-6
+Ronda 9 para jugador 1
+Vidas: 2 vs 0
+
+GANA EL JUGADOR 1!
+###ENTRADA###
+10,6,A,4,5,7,3,9,8,2
+devolver mi carta,jugar a 23,pedir 3,jugar a 23
+devolver carta rival,desactivar As,pedir 6,robar carta
+4,A,10,6,8,5,7,2,3,9
+pedir 4,jugar a 23,jugar a 23,pedir 2
+devolver carta rival,jugar a 23,pedir 4,desactivar As
+8,5,2,7,10,6,A,3,4,9
+jugar a 17,jugar a 23,pedir A,jugar a 23
+robar carta,robar carta,jugar a 17,robar carta
+2,9,7,A,3,4,10,6,5,8
+pedir,pedir 4,jugar a 17,robar carta
+jugar a 17,pedir 4,robar carta,devolver mi carta
+3,4,9,10,7,5,8,2,6,A
+desactivar As,jugar a 17,devolver carta rival,pedir 4
+devolver carta rival,pedir 7,jugar a 17,pedir 4
+9,2,10,8,4,5,7,3,6,A
+jugar a 17,pedir 2,pedir,pedir 2
+pedir,pedir 2,pedir,robar carta
+7,8,3,9,A,2,4,10,6,5
+jugar a 17,jugar a 17,jugar a 23,pedir 2
+pedir 9,pedir 4,pedir 4,pedir
+###SALIDA###
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 0-13
+Ronda 1 para jugador 2
+Vidas: 4 vs 5
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 6-17
+Ronda 2 para jugador 2
+Vidas: 3 vs 5
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 0-23
+Ronda 3 para jugador 2
+Vidas: 2 vs 5
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 16-9
+Ronda 4 para jugador 1
+Vidas: 2 vs 4
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 3-14
+Ronda 5 para jugador 2
+Vidas: 1 vs 4
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 19-26
+Ronda 6 empatada
+Vidas: 1 vs 4
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 12-22
+Ronda 7 para jugador 2
+Vidas: 0 vs 4
+
+GANA EL JUGADOR 2!
+###ENTRADA###
+3,4,5,7,6,2,9,8,A,10
+pedir 4,desactivar As,robar carta,pedir 10
+pedir 2,robar carta,pedir 10,pedir 2
+9,2,A,5,4,10,6,8,7,3
+devolver carta rival,jugar a 23,robar carta,robar carta
+devolver mi carta,jugar a 17,devolver carta rival,pedir 2
+9,7,4,2,10,8,3,5,A,6
+pedir 7,devolver carta rival,devolver carta rival,desactivar As
+pedir 7,devolver carta rival,jugar a 23,pedir A
+9,6,A,2,8,10,3,7,4,5
+pedir,pedir 9,robar carta,pedir 9
+pedir 9,pedir 9,pedir,pedir
+2,10,9,7,3,8,A,6,4,5
+pedir 9,devolver mi carta,pedir 10,desactivar As
+devolver mi carta,pedir,pedir 10,pedir 5
+3,5,4,8,2,10,6,A,7,9
+pedir 8,jugar a 23,pedir 10,pedir 10
+robar carta,pedir 10,devolver carta rival,devolver carta rival
+7,3,5,4,10,9,2,A,6,8
+jugar a 23,robar carta,pedir 5,devolver mi carta
+desactivar As,jugar a 17,robar carta,desactivar As
+A,5,2,6,7,8,9,10,3,4
+pedir 8,pedir,desactivar As,desactivar As
+pedir 8,jugar a 23,jugar a 17,desactivar As
+8,10,6,9,5,A,4,3,7,2
+desactivar As,robar carta,devolver carta rival,pedir 2
+devolver carta rival,desactivar As,jugar a 17,devolver carta rival
+###SALIDA###
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 8-23
+Ronda 1 para jugador 1
+Vidas: 5 vs 4
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 9-2
+Ronda 2 para jugador 1
+Vidas: 5 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 9-11
+Ronda 3 para jugador 2
+Vidas: 4 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 20-19
+Ronda 4 para jugador 1
+Vidas: 4 vs 2
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 2-18
+Ronda 5 para jugador 2
+Vidas: 3 vs 2
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 0-27
+Ronda 6 para jugador 1
+Vidas: 3 vs 1
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 7-7
+Ronda 7 empatada
+Vidas: 3 vs 1
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 28-11
+Ronda 8 para jugador 2
+Vidas: 2 vs 1
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 17-0
+Ronda 9 para jugador 1
+Vidas: 2 vs 0
+
+GANA EL JUGADOR 1!
+###ENTRADA###
+3,4,5,10,2,7,A,6,9,8
+desactivar As,desactivar As,pedir 3,jugar a 17
+pedir 3,pedir,robar carta,pedir 3
+2,7,6,4,10,8,9,5,A,3
+jugar a 17,desactivar As,pedir,pedir
+robar carta,jugar a 23,robar carta,jugar a 23
+4,9,A,5,3,8,2,10,7,6
+jugar a 17,pedir 3,devolver mi carta,devolver carta rival
+pedir 7,pedir 7,devolver mi carta,robar carta
+3,A,10,5,2,6,8,9,7,4
+pedir A,devolver carta rival,jugar a 17,jugar a 17
+robar carta,pedir A,pedir 5,pedir A
+6,9,5,4,10,8,3,2,7,A
+pedir,jugar a 23,pedir A,devolver mi carta
+pedir,pedir,jugar a 17,robar carta
+8,7,2,6,10,9,5,A,4,3
+pedir,devolver carta rival,desactivar As,jugar a 23
+pedir 2,pedir,pedir,pedir 2
+9,A,5,7,4,10,6,2,3,8
+pedir 3,robar carta,pedir 3,pedir
+jugar a 17,jugar a 23,jugar a 23,desactivar As
+3,9,4,8,10,6,2,7,A,5
+jugar a 23,desactivar As,devolver mi carta,pedir 4
+devolver carta rival,desactivar As,jugar a 23,robar carta
+###SALIDA###
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 3-21
+Ronda 1 para jugador 1
+Vidas: 5 vs 4
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 10-27
+Ronda 2 para jugador 1
+Vidas: 5 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 4-10
+Ronda 3 para jugador 2
+Vidas: 4 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 3-16
+Ronda 4 para jugador 2
+Vidas: 3 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 11-34
+Ronda 5 para jugador 1
+Vidas: 3 vs 2
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 20-21
+Ronda 6 para jugador 2
+Vidas: 2 vs 2
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 28-11
+Ronda 7 para jugador 2
+Vidas: 1 vs 2
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 0-21
+Ronda 8 para jugador 2
+Vidas: 0 vs 2
+
+GANA EL JUGADOR 2!
+###ENTRADA###
+6,3,7,4,A,10,8,2,9,5
+devolver mi carta,devolver carta rival,devolver mi carta,jugar a 23
+devolver mi carta,devolver mi carta,devolver carta rival,pedir 8
+5,6,2,10,9,3,A,4,7,8
+jugar a 23,devolver carta rival,devolver carta rival,pedir 10
+jugar a 17,pedir 10,robar carta,jugar a 17
+8,4,3,6,10,2,5,A,7,9
+devolver mi carta,desactivar As,devolver mi carta,desactivar As
+devolver mi carta,jugar a 23,devolver mi carta,jugar a 23
+5,10,A,2,9,6,3,8,7,4
+devolver mi carta,jugar a 23,desactivar As,jugar a 23
+pedir 6,pedir,pedir 6,jugar a 23
+6,2,10,4,5,A,8,7,3,9
+robar carta,pedir 9,desactivar As,desactivar As
+devolver mi carta,jugar a 23,robar carta,jugar a 17
+8,10,6,4,9,2,3,5,A,7
+devolver mi carta,pedir,jugar a 23,robar carta
+pedir 9,pedir 3,jugar a 23,devolver carta rival
+8,2,3,9,7,5,6,10,4,A
+devolver mi carta,pedir A,pedir A,devolver carta rival
+pedir 2,jugar a 23,desactivar As,pedir
+4,9,5,8,A,6,10,3,7,2
+pedir 7,jugar a 17,desactivar As,pedir 7
+robar carta,pedir 7,pedir 7,jugar a 17
+9,4,2,A,6,5,7,10,3,8
+devolver carta rival,pedir,jugar a 23,pedir
+pedir 6,pedir 4,robar carta,pedir 4
+###SALIDA###
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 0-8
+Ronda 1 para jugador 2
+Vidas: 4 vs 5
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 15-8
+Ronda 2 para jugador 1
+Vidas: 4 vs 4
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 0-0
+Ronda 3 empatada
+Vidas: 4 vs 4
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 5-27
+Ronda 4 para jugador 1
+Vidas: 4 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 20-9
+Ronda 5 para jugador 2
+Vidas: 3 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 10-23
+Ronda 6 para jugador 2
+Vidas: 2 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 19-9
+Ronda 7 para jugador 1
+Vidas: 2 vs 2
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 9-24
+Ronda 8 para jugador 1
+Vidas: 2 vs 1
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 18-15
+Ronda 9 para jugador 1
+Vidas: 2 vs 0
+
+GANA EL JUGADOR 1!
+###ENTRADA###
+9,7,3,8,2,4,5,A,10,6
+robar carta,pedir,jugar a 23,desactivar As
+devolver carta rival,devolver carta rival,pedir,desactivar As
+4,3,7,2,6,8,9,10,A,5
+robar carta,pedir,pedir 5,pedir 5
+robar carta,devolver mi carta,desactivar As,robar carta
+7,9,8,6,2,3,10,5,4,A
+desactivar As,pedir 7,devolver carta rival,pedir 10
+pedir 7,devolver carta rival,jugar a 23,pedir 10
+3,2,4,9,5,10,7,A,6,8
+pedir,jugar a 23,robar carta,pedir 3
+robar carta,devolver carta rival,jugar a 23,pedir 6
+10,6,8,7,3,5,4,A,9,2
+jugar a 17,desactivar As,robar carta,desactivar As
+devolver carta rival,jugar a 23,devolver carta rival,pedir
+2,9,3,4,7,5,8,10,6,A
+pedir 7,jugar a 23,devolver carta rival,desactivar As
+desactivar As,devolver mi carta,pedir 7,jugar a 23
+###SALIDA###
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 12-11
+Ronda 1 para jugador 1
+Vidas: 5 vs 4
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 17-8
+Ronda 2 para jugador 1
+Vidas: 5 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 17-9
+Ronda 3 para jugador 1
+Vidas: 5 vs 2
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 8-17
+Ronda 4 para jugador 2
+Vidas: 4 vs 2
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 10-9
+Ronda 5 para jugador 1
+Vidas: 4 vs 1
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 12-0
+Ronda 6 para jugador 1
+Vidas: 4 vs 0
+
+GANA EL JUGADOR 1!
+###ENTRADA###
+7,5,10,6,3,2,9,8,4,A
+desactivar As,pedir 10,pedir,devolver mi carta
+pedir,devolver carta rival,robar carta,devolver mi carta
+4,7,9,8,10,2,5,A,6,3
+pedir 4,robar carta,jugar a 17,pedir 3
+devolver carta rival,devolver mi carta,desactivar As,devolver carta rival
+10,4,2,3,7,8,A,9,6,5
+devolver carta rival,pedir,devolver carta rival,devolver mi carta
+robar carta,pedir,pedir 4,jugar a 23
+5,6,7,3,10,8,9,4,A,2
+devolver mi carta,pedir,jugar a 23,devolver mi carta
+devolver mi carta,robar carta,jugar a 17,devolver carta rival
+2,8,3,A,4,5,6,10,9,7
+pedir 2,jugar a 23,desactivar As,devolver carta rival
+jugar a 17,devolver carta rival,jugar a 17,devolver carta rival
+A,6,3,10,8,2,7,9,5,4
+devolver carta rival,pedir 4,jugar a 23,pedir 4
+desactivar As,pedir 7,robar carta,pedir 7
+6,5,3,4,8,7,2,A,10,9
+pedir 10,devolver carta rival,robar carta,jugar a 17
+jugar a 23,pedir 10,jugar a 23,robar carta
+###SALIDA###
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 0-14
+Ronda 1 para jugador 2
+Vidas: 4 vs 5
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 12-0
+Ronda 2 para jugador 1
+Vidas: 4 vs 4
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 10-6
+Ronda 3 para jugador 1
+Vidas: 4 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 0-16
+Ronda 4 para jugador 2
+Vidas: 3 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 0-8
+Ronda 5 para jugador 2
+Vidas: 2 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 14-17
+Ronda 6 para jugador 2
+Vidas: 1 vs 3
+
+Ingrese las cartas del mazo: Ingrese la jugadas del jugador1: Ingrese la jugadas del jugador2: Total: 19-5
+Ronda 7 para jugador 2
+Vidas: 0 vs 3
+
+GANA EL JUGADOR 2!
