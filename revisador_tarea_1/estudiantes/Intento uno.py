@@ -1,13 +1,4 @@
-# FUNDAMENTOS DE PROGRAMACIÓN PARA INGENIERÍA
-# FUNDAMENTOS DE COMPUTACIÓN Y PROGRAMACIÓN
-# SECCIÓN DEL CURSO: [SECCIÓN]
-# PROFESOR DE TEORÍA: [PROFESOR]
-# PROFESOR DE LABORATORIO: [PROFESOR]
-#
-# AUTOR
-# NOMBRE: [TU NOMBRE]
-# RUN: [TU RUN]
-# CARRERA: [TU CARRERA]
+
 
 def valor_carta(carta, as_vale_11):
     if carta == "A":
@@ -23,7 +14,7 @@ def calcular_puntaje(mano, as_vale_11):
             total += 11 if as_vale_11 else 1
         else:
             total += int(carta)
-    # Ajustar ases si el total se pasa
+    # ajustar ases si el total se pasa
     while total > 21 and ases > 0 and as_vale_11:
         total -= 10
         ases -= 1
@@ -85,7 +76,7 @@ def ejecutar_acciones(mazo, acciones1, acciones2):
                         manos[rival].remove(carta)
                         manos[jugador].append(carta)
                         historial[jugador].append(carta)
-
+                #resuelto 
                 elif accion == "jugar a 17" or accion == "jugar a 23":
                     objetivo = 17 if accion == "jugar a 17" else 23
                     puntajes = [calcular_puntaje(manos[0], as_vale_11), calcular_puntaje(manos[1], as_vale_11)]
@@ -109,7 +100,7 @@ def ejecutar_acciones(mazo, acciones1, acciones2):
     ganador = "Jugador 1" if vidas[1] == 0 else "Jugador 2"
     print(f"\nGanador final: {ganador}")
 
-# --- PROGRAMA PRINCIPAL ---
+#variables globales
 
 mazo = input("Ingrese el orden de las cartas del mazo (ej: 6,9,2,4,A,5,10,8,7,3): ").split(",")
 acciones_j1 = input("Ingrese las acciones del Jugador 1 separadas por coma: ")
